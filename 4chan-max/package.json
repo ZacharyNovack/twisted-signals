@@ -1,0 +1,14 @@
+{
+  "name": "4chan-max",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4chan_soni.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astoria": "^1.0.4"
+  }
+}
